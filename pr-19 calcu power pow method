@@ -1,0 +1,4 @@
+def pow(x,y):
+    c=x**y
+    print(c)
+pow(2,3)
