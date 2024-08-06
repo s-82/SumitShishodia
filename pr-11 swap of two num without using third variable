@@ -1,0 +1,5 @@
+a=12
+b=23
+print("after swap")
+a,b=b,a
+print(a,b)

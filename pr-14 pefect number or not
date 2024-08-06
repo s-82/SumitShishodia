@@ -1,0 +1,10 @@
+num=int(input("enter the number"))
+factor=0
+for i in range(1,num):
+    if(num%i==0):
+        factor=factor+i
+if(factor==num):
+    print("num is perfect number:",num)
+else:
+    print("num is not perfect number:",num)
+    #pefect num is let 6 is divisible by 1,2,3 and add also is 6 that is pefect number
