@@ -1,0 +1,4 @@
+def square(n):
+    b=n*n
+    print(n)
+square(4)

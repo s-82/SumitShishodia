@@ -1,0 +1,4 @@
+def cube(n):
+    b=n*n*n
+    print("cube is ",b)
+cube(2)
