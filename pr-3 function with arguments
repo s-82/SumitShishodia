@@ -1,0 +1,4 @@
+def sumit(name):
+    gr=("hello" + name)
+    print(gr)
+sumit("subham")

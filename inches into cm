@@ -1,0 +1,2 @@
+def cm(inch):
+    print(100 
