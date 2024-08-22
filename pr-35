@@ -1,0 +1,4 @@
+num=float(input("enter the num"))
+temp=num
+c=(temp-32)*5/9
+print(c)

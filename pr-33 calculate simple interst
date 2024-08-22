@@ -1,0 +1,8 @@
+from re import S
+
+
+p=int(input("enter the principal amount:"))
+r=float(input("enter the interst rate per anum:"))
+t=int(input("enter the time in year:"))
+SI=(p*r*t)/100
+print("simple interst is:",SI)
